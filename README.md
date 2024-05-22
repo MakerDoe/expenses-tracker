@@ -12,6 +12,7 @@ Expenses Tracker is a web application designed to help users manage their expens
 
 - Frontend
   - React: A popular JavaScript library for building user interfaces.
+  - Tailwind CSS: A utility-first CSS framework for rapidly building custom user interfaces.
 
 ## License
 
