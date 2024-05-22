@@ -15,4 +15,4 @@ Expenses Tracker is a web application designed to help users manage their expens
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](./LIECENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
