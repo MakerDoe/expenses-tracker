@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/MakerDoe/expenses-tracker-backend
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/MakerDoe/expenses-tracker-frontend
+[submodule "database"]
+	path = database
+	url = https://github.com/MakerDoe/expenses-tracker-database
